@@ -1,0 +1,2 @@
+C:\Users\kasta\OneDrive\Документы\WebApplication1\reactproject1\obj\Release\java-script-react-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\kasta\OneDrive\Документы\WebApplication1\reactproject1\obj\Release\java-script-react-frontend.esproj.CoreCompileInputs.cache
