@@ -1,4 +1,3 @@
-//const baseUrl = `${process.env.REACT_APP_API_URL}/mytodos`;
 const baseUrl = `https://localhost:7051/mytodos`;
 
 export const loadTodos = () => {

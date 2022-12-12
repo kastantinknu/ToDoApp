@@ -32,11 +32,6 @@ const Todo = ({todo, onTodoRemoval, onTodoToggle}) => {
             <div className="todo-item">
                 <Tag color={todo.completed ? 'cyan' : 'red'} className="todo-tag">
                 {todo.title}
-                ' '
-                {todo.id}
-                ' '
-                <p>{todo.completed ? 'completed' : 'uncompleted'}</p>
-
                 </Tag>
             </div>
         </List.Item>

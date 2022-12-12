@@ -23,11 +23,9 @@ const TodoList = () => {
     const handleRemoveTodo = (todo) => {
         deleteTodo(todo.id).then(onRefresh());
         message.warn('Todo removed');
-        // !!!
     }
 
     const handleToggleTodoStatus = (todo) => {
-        // todo.completed = true;
         todo.completed = !todo.completed;
         updateTodo(todo).then(onRefresh());
         message.info('Todo status updated!');

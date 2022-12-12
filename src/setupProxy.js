@@ -2,7 +2,6 @@
 
 const context = [
     "/mytodos",
-    //"/weatherforecast"
 ];
 
 module.exports = function (app) {
